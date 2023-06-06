@@ -4,15 +4,17 @@
 [![Selenium Version](https://img.shields.io/badge/selenium-4.1.0-brightgreen)](https://pypi.org/project/selenium/)
 [![Requests Version](https://img.shields.io/badge/requests-2.28.1-orange)](https://pypi.org/project/requests/)
 [![BeautifulSoup Version](https://img.shields.io/badge/bs4-0.0.1-lightgrey)](https://pypi.org/project/bs4/)
+[![Openpyxl Version](https://img.shields.io/badge/openpyxl-3.0.9-yellow)](https://pypi.org/project/openpyxl/)
 [![ChromeDriver Version](https://img.shields.io/badge/chromedriver--autoinstaller-latest-blueviolet)](https://pypi.org/project/chromedriver-autoinstaller/)
 
-This Python script enables scraping data from Google Maps using Selenium. It automates the process of extracting information from map searches, enhancing your data collection capabilities.
+This Python script enables scraping data from Google Maps using Selenium. It automates the process of extracting information from map searches and saves the data to an Excel file using the openpyxl library.
 
 ## Prerequisites
 - Python 3.9
 - selenium 4.1.0
 - requests 2.28.1
 - bs4 0.0.1
+- openpyxl 3.0.9
 - chromedriver-autoinstaller (latest version)
 
 ## Installation
