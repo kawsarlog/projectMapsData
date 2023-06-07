@@ -18,7 +18,7 @@ This Python script enables scraping data from Google Maps using Selenium. It aut
 - chromedriver-autoinstaller (latest version)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your_username/google-maps-scraping.git`
+1. Clone the repository: `git clone https://github.com/kawsarlog/projectMapsData`
 2. Navigate to the project directory: `cd google-maps-scraping`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
